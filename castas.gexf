@@ -1231,23 +1231,6 @@
                     <attvalue for="n1773" value="False"/>
                 </attvalues>
                 </node>
-                <node id="15472" label="Mestizo" type="Character">
-                <attvalues>
-                    <attvalue for="NodeTypeId" value="813"/>
-                    <attvalue for="NodeType" value="Character"/>
-                    <attvalue for="n1779" value="False"/>
-                    <attvalue for="n1776" value="Mestizo"/>
-                    <attvalue for="n1777" value="False"/>
-                    <attvalue for="n1780" value="False"/>
-                    <attvalue for="n1782" value="False"/>
-                    <attvalue for="n1788" value="Juárez 1715"/>
-                    <attvalue for="n1781" value="left-center"/>
-                    <attvalue for="n1775" value="True"/>
-                    <attvalue for="n1774" value="False"/>
-                    <attvalue for="n1778" value="Mestizo"/>
-                    <attvalue for="n1773" value="False"/>
-                </attvalues>
-                </node>
                 <node id="15474" label="Coyote" type="Character">
                 <attvalues>
                     <attvalue for="NodeTypeId" value="813"/>
@@ -23507,23 +23490,6 @@ Barcino child"/>
                     <attvalue for="n1771" value="366"/>
                 </attvalues>
                 </node>
-                <node id="15168" label="7. De español y albina, torna atrás; 8. De torna atrás e india, loba" type="Painting">
-                <attvalues>
-                    <attvalue for="NodeTypeId" value="811"/>
-                    <attvalue for="NodeType" value="Painting"/>
-                    <attvalue for="n1761" value="1787"/>
-                    <attvalue for="n1762" value="7. De español y albina, torna atrás; 8. De torna atrás e india, loba"/>
-                    <attvalue for="n1767" value="serie? La pintura se encuentra en blanco y negro. El dato de la localización actual se desconoce, la fuente sólo menciona -Colección particular.-"/>
-                    <attvalue for="n1763" value=""/>
-                    <attvalue for="n1764" value=""/>
-                    <attvalue for="n1765" value="Mexico"/>
-                    <attvalue for="n1766" value=""/>
-                    <attvalue for="n1769" value="35.5 x 47.7 cm"/>
-                    <attvalue for="n1768" value="La pintura de castas: representaciones raciales en el México del siglo XVIII Katzew, Ilona   Katzew, Ilona. La pintura de castas: representaciones raciales en el México del siglo XVIII. Madrid: Turner, 2004.  Montreal"/>
-                    <attvalue for="n1770" value="1787"/>
-                    <attvalue for="n1771" value="366"/>
-                </attvalues>
-                </node>
                 <node id="15666" label="15. De barcino e indio gíbaro; 16. De gíbaro y mulata, tente en el aire" type="Painting">
                 <attvalues>
                     <attvalue for="NodeTypeId" value="811"/>
@@ -33171,40 +33137,6 @@ Barcino child"/>
                     <attvalue for="n1771" value="366"/>
                 </attvalues>
                 </node>
-                <node id="15123" label="De lobo e india, produce lobo torna atrás" type="Painting">
-                <attvalues>
-                    <attvalue for="NodeTypeId" value="811"/>
-                    <attvalue for="NodeType" value="Painting"/>
-                    <attvalue for="n1761" value="1750"/>
-                    <attvalue for="n1762" value="De lobo e india, produce lobo torna atrás"/>
-                    <attvalue for="n1767" value="La localización sólo menciona -colección particular- sin ciudad y sin país. Además se encuentra en blanco y negro. serie?"/>
-                    <attvalue for="n1763" value=""/>
-                    <attvalue for="n1764" value=""/>
-                    <attvalue for="n1765" value="Mexico"/>
-                    <attvalue for="n1766" value=""/>
-                    <attvalue for="n1769" value="84 X 105 cm"/>
-                    <attvalue for="n1768" value="La pintura de castas: representaciones raciales en el México del siglo XVIII Katzew, Ilona   Katzew, Ilona. La pintura de castas: representaciones raciales en el México del siglo XVIII. Madrid: Turner, 2004.  Montreal"/>
-                    <attvalue for="n1770" value="1730"/>
-                    <attvalue for="n1771" value="366"/>
-                </attvalues>
-                </node>
-                <node id="15093" label="1. De español é india, nace mestiza" type="Painting">
-                <attvalues>
-                    <attvalue for="NodeTypeId" value="811"/>
-                    <attvalue for="NodeType" value="Painting"/>
-                    <attvalue for="n1761" value="1785"/>
-                    <attvalue for="n1762" value="1. De español é india, nace mestiza"/>
-                    <attvalue for="n1767" value="In Katzew dated at 1785, but in &quot;Painting a New World...&quot; dated at ca. 1775 Colección de Jan y Frederick R. Mayer."/>
-                    <attvalue for="n1763" value=""/>
-                    <attvalue for="n1764" value=""/>
-                    <attvalue for="n1765" value="Denver Art Museum (Denver, United States)"/>
-                    <attvalue for="n1766" value=""/>
-                    <attvalue for="n1769" value="54 x 40.5 cm"/>
-                    <attvalue for="n1768" value="La pintura de castas: representaciones raciales en el México del siglo XVIII Katzew, Ilona Katzew, Ilona. La pintura de castas: representaciones raciales en el México del siglo XVIII. Madrid: Turner, 2004. Montreal pp. 30 Painting a New World, Mexican Art and Life, 1521-1821 Pierce, Donna, R. Ruiz Gomar, and C. Bargellini, ed.   Pierce, Donna, R. Ruiz Gomar, and C. Bargellini, ed. Painting a New World. Mexican Art and Life, 1521-1821. Intr. Jonathan Brown. Denver; Austin: Denver Art Museum; Texas UP, 2004.                 UWO – ND253.P54"/>
-                    <attvalue for="n1770" value="1785"/>
-                    <attvalue for="n1771" value="1486"/>
-                </attvalues>
-                </node>
                 <node id="22241" label="India" type="Character">
                 <attvalues>
                     <attvalue for="NodeTypeId" value="813"/>
@@ -33256,6 +33188,40 @@ Barcino child"/>
                     <attvalue for="n1773" value="False"/>
                 </attvalues>
                 </node>
+                <node id="15123" label="De lobo e india, produce lobo torna atrás" type="Painting">
+                <attvalues>
+                    <attvalue for="NodeTypeId" value="811"/>
+                    <attvalue for="NodeType" value="Painting"/>
+                    <attvalue for="n1761" value="1750"/>
+                    <attvalue for="n1762" value="De lobo e india, produce lobo torna atrás"/>
+                    <attvalue for="n1767" value="La localización sólo menciona -colección particular- sin ciudad y sin país. Además se encuentra en blanco y negro. serie?"/>
+                    <attvalue for="n1763" value=""/>
+                    <attvalue for="n1764" value=""/>
+                    <attvalue for="n1765" value="Mexico"/>
+                    <attvalue for="n1766" value=""/>
+                    <attvalue for="n1769" value="84 X 105 cm"/>
+                    <attvalue for="n1768" value="La pintura de castas: representaciones raciales en el México del siglo XVIII Katzew, Ilona   Katzew, Ilona. La pintura de castas: representaciones raciales en el México del siglo XVIII. Madrid: Turner, 2004.  Montreal"/>
+                    <attvalue for="n1770" value="1730"/>
+                    <attvalue for="n1771" value="366"/>
+                </attvalues>
+                </node>
+                <node id="15093" label="1. De español é india, nace mestiza" type="Painting">
+                <attvalues>
+                    <attvalue for="NodeTypeId" value="811"/>
+                    <attvalue for="NodeType" value="Painting"/>
+                    <attvalue for="n1761" value="1785"/>
+                    <attvalue for="n1762" value="1. De español é india, nace mestiza"/>
+                    <attvalue for="n1767" value="In Katzew dated at 1785, but in &quot;Painting a New World...&quot; dated at ca. 1775 Colección de Jan y Frederick R. Mayer."/>
+                    <attvalue for="n1763" value=""/>
+                    <attvalue for="n1764" value=""/>
+                    <attvalue for="n1765" value="Denver Art Museum (Denver, United States)"/>
+                    <attvalue for="n1766" value=""/>
+                    <attvalue for="n1769" value="54 x 40.5 cm"/>
+                    <attvalue for="n1768" value="La pintura de castas: representaciones raciales en el México del siglo XVIII Katzew, Ilona Katzew, Ilona. La pintura de castas: representaciones raciales en el México del siglo XVIII. Madrid: Turner, 2004. Montreal pp. 30 Painting a New World, Mexican Art and Life, 1521-1821 Pierce, Donna, R. Ruiz Gomar, and C. Bargellini, ed.   Pierce, Donna, R. Ruiz Gomar, and C. Bargellini, ed. Painting a New World. Mexican Art and Life, 1521-1821. Intr. Jonathan Brown. Denver; Austin: Denver Art Museum; Texas UP, 2004.                 UWO – ND253.P54"/>
+                    <attvalue for="n1770" value="1785"/>
+                    <attvalue for="n1771" value="1486"/>
+                </attvalues>
+                </node>
                 <node id="15598" label="De español y de India, mestizo" type="Family">
                 <attvalues>
                     <attvalue for="NodeTypeId" value="834"/>
@@ -33279,6 +33245,40 @@ Barcino child"/>
                     <attvalue for="n1775" value="False"/>
                     <attvalue for="n1774" value="True"/>
                     <attvalue for="n1778" value="Castizo"/>
+                    <attvalue for="n1773" value="False"/>
+                </attvalues>
+                </node>
+                <node id="15168" label="7. De español y albina, torna atrás; 8. De torna atrás e india, loba" type="Painting">
+                <attvalues>
+                    <attvalue for="NodeTypeId" value="811"/>
+                    <attvalue for="NodeType" value="Painting"/>
+                    <attvalue for="n1761" value="1787"/>
+                    <attvalue for="n1762" value="7. De español y albina, torna atrás; 8. De torna atrás e india, loba"/>
+                    <attvalue for="n1767" value="serie? La pintura se encuentra en blanco y negro. El dato de la localización actual se desconoce, la fuente sólo menciona -Colección particular.-"/>
+                    <attvalue for="n1763" value=""/>
+                    <attvalue for="n1764" value=""/>
+                    <attvalue for="n1765" value="Mexico"/>
+                    <attvalue for="n1766" value=""/>
+                    <attvalue for="n1769" value="35.5 x 47.7 cm"/>
+                    <attvalue for="n1768" value="La pintura de castas: representaciones raciales en el México del siglo XVIII Katzew, Ilona   Katzew, Ilona. La pintura de castas: representaciones raciales en el México del siglo XVIII. Madrid: Turner, 2004.  Montreal p 32"/>
+                    <attvalue for="n1770" value="1787"/>
+                    <attvalue for="n1771" value="366"/>
+                </attvalues>
+                </node>
+                <node id="15472" label="Mestizo" type="Character">
+                <attvalues>
+                    <attvalue for="NodeTypeId" value="813"/>
+                    <attvalue for="NodeType" value="Character"/>
+                    <attvalue for="n1779" value="True"/>
+                    <attvalue for="n1776" value="Mestizo"/>
+                    <attvalue for="n1777" value="False"/>
+                    <attvalue for="n1780" value="False"/>
+                    <attvalue for="n1782" value="False"/>
+                    <attvalue for="n1788" value="Juárez 1715"/>
+                    <attvalue for="n1781" value="left-center"/>
+                    <attvalue for="n1775" value="True"/>
+                    <attvalue for="n1774" value="False"/>
+                    <attvalue for="n1778" value="Mestizo"/>
                     <attvalue for="n1773" value="False"/>
                 </attvalues>
                 </node></nodes><edges>
@@ -35916,12 +35916,6 @@ Barcino child"/>
                     <attvalue for="RelationshipTypeId" value="1128"/>
                 </attvalues>
                 </edge>
-                <edge id="29390" source="15168" target="15410" label="depict">
-                <attvalues>
-                    <attvalue for="RelationshipType" value="depict"/>
-                    <attvalue for="RelationshipTypeId" value="1131"/>
-                </attvalues>
-                </edge>
                 <edge id="22356" source="17052" target="15397" label="doing">
                 <attvalues>
                     <attvalue for="RelationshipType" value="doing"/>
@@ -36027,12 +36021,6 @@ Barcino child"/>
                 </attvalues>
                 </edge>
                 <edge id="30166" source="15097" target="15390" label="paints">
-                <attvalues>
-                    <attvalue for="RelationshipType" value="paints"/>
-                    <attvalue for="RelationshipTypeId" value="1127"/>
-                </attvalues>
-                </edge>
-                <edge id="29399" source="15082" target="15168" label="paints">
                 <attvalues>
                     <attvalue for="RelationshipType" value="paints"/>
                     <attvalue for="RelationshipTypeId" value="1127"/>
@@ -37552,13 +37540,6 @@ Barcino child"/>
                 <attvalues>
                     <attvalue for="RelationshipType" value="doing"/>
                     <attvalue for="RelationshipTypeId" value="1129"/>
-                </attvalues>
-                </edge>
-                <edge id="29392" source="15168" target="15653" label="depicts">
-                <attvalues>
-                    <attvalue for="RelationshipType" value="depicts"/>
-                    <attvalue for="RelationshipTypeId" value="1144"/>
-                    <attvalue for="r461" value="8"/>
                 </attvalues>
                 </edge>
                 <edge id="31035" source="21972" target="15698" label="doing">
@@ -39287,6 +39268,12 @@ Barcino child"/>
                     <attvalue for="RelationshipTypeId" value="1132"/>
                 </attvalues>
                 </edge>
+                <edge id="33062" source="15394" target="15472" label="received by">
+                <attvalues>
+                    <attvalue for="RelationshipType" value="received by"/>
+                    <attvalue for="RelationshipTypeId" value="1130"/>
+                </attvalues>
+                </edge>
                 <edge id="22196" source="15599" target="17022" label="has">
                 <attvalues>
                     <attvalue for="RelationshipType" value="has"/>
@@ -40136,17 +40123,17 @@ Barcino child"/>
                     <attvalue for="RelationshipTypeId" value="1132"/>
                 </attvalues>
                 </edge>
+                <edge id="30228" source="17067" target="15410" label="depict">
+                <attvalues>
+                    <attvalue for="RelationshipType" value="depict"/>
+                    <attvalue for="RelationshipTypeId" value="1131"/>
+                </attvalues>
+                </edge>
                 <edge id="32103" source="22187" target="18933" label="depicts">
                 <attvalues>
                     <attvalue for="RelationshipType" value="depicts"/>
                     <attvalue for="RelationshipTypeId" value="1144"/>
                     <attvalue for="r461" value="13"/>
-                </attvalues>
-                </edge>
-                <edge id="30228" source="17067" target="15410" label="depict">
-                <attvalues>
-                    <attvalue for="RelationshipType" value="depict"/>
-                    <attvalue for="RelationshipTypeId" value="1131"/>
                 </attvalues>
                 </edge>
                 <edge id="19194" source="15604" target="16056" label="has">
@@ -41339,12 +41326,6 @@ Barcino child"/>
                     <attvalue for="RelationshipTypeId" value="1144"/>
                 </attvalues>
                 </edge>
-                <edge id="29393" source="15168" target="15654" label="depicts">
-                <attvalues>
-                    <attvalue for="RelationshipType" value="depicts"/>
-                    <attvalue for="RelationshipTypeId" value="1128"/>
-                </attvalues>
-                </edge>
                 <edge id="19007" source="16015" target="15539" label="doing">
                 <attvalues>
                     <attvalue for="RelationshipType" value="doing"/>
@@ -41406,6 +41387,12 @@ Barcino child"/>
                 </attvalues>
                 </edge>
                 <edge id="17915" source="15182" target="15785" label="depicts">
+                <attvalues>
+                    <attvalue for="RelationshipType" value="depicts"/>
+                    <attvalue for="RelationshipTypeId" value="1128"/>
+                </attvalues>
+                </edge>
+                <edge id="33053" source="15168" target="15655" label="depicts">
                 <attvalues>
                     <attvalue for="RelationshipType" value="depicts"/>
                     <attvalue for="RelationshipTypeId" value="1128"/>
@@ -42663,6 +42650,12 @@ Barcino child"/>
                     <attvalue for="RelationshipTypeId" value="1128"/>
                 </attvalues>
                 </edge>
+                <edge id="33059" source="15472" target="15397" label="doing">
+                <attvalues>
+                    <attvalue for="RelationshipType" value="doing"/>
+                    <attvalue for="RelationshipTypeId" value="1129"/>
+                </attvalues>
+                </edge>
                 <edge id="19489" source="16124" target="15433" label="doing">
                 <attvalues>
                     <attvalue for="RelationshipType" value="doing"/>
@@ -42697,12 +42690,6 @@ Barcino child"/>
                 <attvalues>
                     <attvalue for="RelationshipType" value="has"/>
                     <attvalue for="RelationshipTypeId" value="1145"/>
-                </attvalues>
-                </edge>
-                <edge id="16471" source="15111" target="15472" label="depicts">
-                <attvalues>
-                    <attvalue for="RelationshipType" value="depicts"/>
-                    <attvalue for="RelationshipTypeId" value="1128"/>
                 </attvalues>
                 </edge>
                 <edge id="20725" source="15977" target="16641" label="has">
@@ -43548,6 +43535,13 @@ Barcino child"/>
                     <attvalue for="RelationshipTypeId" value="1129"/>
                 </attvalues>
                 </edge>
+                <edge id="33050" source="15168" target="15632" label="depicts">
+                <attvalues>
+                    <attvalue for="RelationshipType" value="depicts"/>
+                    <attvalue for="RelationshipTypeId" value="1144"/>
+                    <attvalue for="r461" value="7"/>
+                </attvalues>
+                </edge>
                 <edge id="33047" source="17248" target="17251" label="depicts">
                 <attvalues>
                     <attvalue for="RelationshipType" value="depicts"/>
@@ -44082,12 +44076,6 @@ Barcino child"/>
                 <attvalues>
                     <attvalue for="RelationshipType" value="paints"/>
                     <attvalue for="RelationshipTypeId" value="1127"/>
-                </attvalues>
-                </edge>
-                <edge id="16989" source="15610" target="15472" label="has">
-                <attvalues>
-                    <attvalue for="RelationshipType" value="has"/>
-                    <attvalue for="RelationshipTypeId" value="1145"/>
                 </attvalues>
                 </edge>
                 <edge id="21944" source="16973" target="16974" label="depicts">
@@ -45061,6 +45049,12 @@ Barcino child"/>
                 <attvalues>
                     <attvalue for="RelationshipType" value="doing"/>
                     <attvalue for="RelationshipTypeId" value="1129"/>
+                </attvalues>
+                </edge>
+                <edge id="33057" source="15168" target="15663" label="depicts">
+                <attvalues>
+                    <attvalue for="RelationshipType" value="depicts"/>
+                    <attvalue for="RelationshipTypeId" value="1128"/>
                 </attvalues>
                 </edge>
                 <edge id="16776" source="15560" target="15559" label="associated with">
@@ -46726,12 +46720,6 @@ Barcino child"/>
                 <attvalues>
                     <attvalue for="RelationshipType" value="has"/>
                     <attvalue for="RelationshipTypeId" value="1145"/>
-                </attvalues>
-                </edge>
-                <edge id="29395" source="15168" target="15656" label="depicts">
-                <attvalues>
-                    <attvalue for="RelationshipType" value="depicts"/>
-                    <attvalue for="RelationshipTypeId" value="1128"/>
                 </attvalues>
                 </edge>
                 <edge id="19510" source="15273" target="16130" label="depicts">
@@ -50365,16 +50353,16 @@ Barcino child"/>
                     <attvalue for="RelationshipTypeId" value="1144"/>
                 </attvalues>
                 </edge>
-                <edge id="32092" source="22184" target="15668" label="doing">
-                <attvalues>
-                    <attvalue for="RelationshipType" value="doing"/>
-                    <attvalue for="RelationshipTypeId" value="1129"/>
-                </attvalues>
-                </edge>
                 <edge id="31208" source="22011" target="15414" label="associated with">
                 <attvalues>
                     <attvalue for="RelationshipType" value="associated with"/>
                     <attvalue for="RelationshipTypeId" value="1132"/>
+                </attvalues>
+                </edge>
+                <edge id="32092" source="22184" target="15668" label="doing">
+                <attvalues>
+                    <attvalue for="RelationshipType" value="doing"/>
+                    <attvalue for="RelationshipTypeId" value="1129"/>
                 </attvalues>
                 </edge>
                 <edge id="23795" source="18973" target="15413" label="associated with">
@@ -51893,17 +51881,17 @@ Barcino child"/>
                     <attvalue for="RelationshipTypeId" value="1128"/>
                 </attvalues>
                 </edge>
+                <edge id="18527" source="15610" target="15908" label="has">
+                <attvalues>
+                    <attvalue for="RelationshipType" value="has"/>
+                    <attvalue for="RelationshipTypeId" value="1145"/>
+                </attvalues>
+                </edge>
                 <edge id="32101" source="22187" target="15607" label="depicts">
                 <attvalues>
                     <attvalue for="RelationshipType" value="depicts"/>
                     <attvalue for="RelationshipTypeId" value="1144"/>
                     <attvalue for="r461" value="9"/>
-                </attvalues>
-                </edge>
-                <edge id="18527" source="15610" target="15908" label="has">
-                <attvalues>
-                    <attvalue for="RelationshipType" value="has"/>
-                    <attvalue for="RelationshipTypeId" value="1145"/>
                 </attvalues>
                 </edge>
                 <edge id="24262" source="19885" target="15412" label="associated with">
@@ -52182,12 +52170,6 @@ Barcino child"/>
                     <attvalue for="RelationshipTypeId" value="1132"/>
                 </attvalues>
                 </edge>
-                <edge id="29394" source="15168" target="15655" label="depicts">
-                <attvalues>
-                    <attvalue for="RelationshipType" value="depicts"/>
-                    <attvalue for="RelationshipTypeId" value="1128"/>
-                </attvalues>
-                </edge>
                 <edge id="23589" source="18924" target="15668" label="doing">
                 <attvalues>
                     <attvalue for="RelationshipType" value="doing"/>
@@ -52346,12 +52328,6 @@ Barcino child"/>
                 </attvalues>
                 </edge>
                 <edge id="32346" source="21998" target="22020" label="depicts">
-                <attvalues>
-                    <attvalue for="RelationshipType" value="depicts"/>
-                    <attvalue for="RelationshipTypeId" value="1128"/>
-                </attvalues>
-                </edge>
-                <edge id="29397" source="15168" target="15659" label="depicts">
                 <attvalues>
                     <attvalue for="RelationshipType" value="depicts"/>
                     <attvalue for="RelationshipTypeId" value="1128"/>
@@ -52706,16 +52682,16 @@ Barcino child"/>
                     <attvalue for="RelationshipTypeId" value="1129"/>
                 </attvalues>
                 </edge>
-                <edge id="32100" source="22187" target="15404" label="depict">
-                <attvalues>
-                    <attvalue for="RelationshipType" value="depict"/>
-                    <attvalue for="RelationshipTypeId" value="1131"/>
-                </attvalues>
-                </edge>
                 <edge id="16509" source="15115" target="15488" label="depicts">
                 <attvalues>
                     <attvalue for="RelationshipType" value="depicts"/>
                     <attvalue for="RelationshipTypeId" value="1128"/>
+                </attvalues>
+                </edge>
+                <edge id="32100" source="22187" target="15404" label="depict">
+                <attvalues>
+                    <attvalue for="RelationshipType" value="depict"/>
+                    <attvalue for="RelationshipTypeId" value="1131"/>
                 </attvalues>
                 </edge>
                 <edge id="20689" source="16635" target="15548" label="doing">
@@ -52834,6 +52810,12 @@ Barcino child"/>
                 </attvalues>
                 </edge>
                 <edge id="31098" source="15233" target="21983" label="depicts">
+                <attvalues>
+                    <attvalue for="RelationshipType" value="depicts"/>
+                    <attvalue for="RelationshipTypeId" value="1128"/>
+                </attvalues>
+                </edge>
+                <edge id="33060" source="15111" target="15472" label="depicts">
                 <attvalues>
                     <attvalue for="RelationshipType" value="depicts"/>
                     <attvalue for="RelationshipTypeId" value="1128"/>
@@ -56326,12 +56308,6 @@ Barcino child"/>
                     <attvalue for="RelationshipTypeId" value="1129"/>
                 </attvalues>
                 </edge>
-                <edge id="29396" source="15168" target="15657" label="depicts">
-                <attvalues>
-                    <attvalue for="RelationshipType" value="depicts"/>
-                    <attvalue for="RelationshipTypeId" value="1128"/>
-                </attvalues>
-                </edge>
                 <edge id="32927" source="15598" target="16768" label="has">
                 <attvalues>
                     <attvalue for="RelationshipType" value="has"/>
@@ -58386,6 +58362,12 @@ Barcino child"/>
                     <attvalue for="RelationshipTypeId" value="1128"/>
                 </attvalues>
                 </edge>
+                <edge id="33055" source="15168" target="15657" label="depicts">
+                <attvalues>
+                    <attvalue for="RelationshipType" value="depicts"/>
+                    <attvalue for="RelationshipTypeId" value="1128"/>
+                </attvalues>
+                </edge>
                 <edge id="22042" source="16994" target="15476" label="doing">
                 <attvalues>
                     <attvalue for="RelationshipType" value="doing"/>
@@ -59818,6 +59800,12 @@ Barcino child"/>
                     <attvalue for="RelationshipTypeId" value="1132"/>
                 </attvalues>
                 </edge>
+                <edge id="33056" source="15168" target="15659" label="depicts">
+                <attvalues>
+                    <attvalue for="RelationshipType" value="depicts"/>
+                    <attvalue for="RelationshipTypeId" value="1128"/>
+                </attvalues>
+                </edge>
                 <edge id="23850" source="15091" target="18990" label="paints">
                 <attvalues>
                     <attvalue for="RelationshipType" value="paints"/>
@@ -60795,6 +60783,12 @@ Barcino child"/>
                     <attvalue for="RelationshipTypeId" value="1128"/>
                 </attvalues>
                 </edge>
+                <edge id="33049" source="15168" target="15410" label="depict">
+                <attvalues>
+                    <attvalue for="RelationshipType" value="depict"/>
+                    <attvalue for="RelationshipTypeId" value="1131"/>
+                </attvalues>
+                </edge>
                 <edge id="22885" source="17168" target="15476" label="doing">
                 <attvalues>
                     <attvalue for="RelationshipType" value="doing"/>
@@ -60931,6 +60925,12 @@ Barcino child"/>
                 <attvalues>
                     <attvalue for="RelationshipType" value="doing"/>
                     <attvalue for="RelationshipTypeId" value="1129"/>
+                </attvalues>
+                </edge>
+                <edge id="33058" source="15082" target="15168" label="paints">
+                <attvalues>
+                    <attvalue for="RelationshipType" value="paints"/>
+                    <attvalue for="RelationshipTypeId" value="1127"/>
                 </attvalues>
                 </edge>
                 <edge id="17318" source="15394" target="15571" label="received by">
@@ -61476,13 +61476,6 @@ Barcino child"/>
                 <attvalues>
                     <attvalue for="RelationshipType" value="has"/>
                     <attvalue for="RelationshipTypeId" value="1145"/>
-                </attvalues>
-                </edge>
-                <edge id="29391" source="15168" target="15632" label="depicts">
-                <attvalues>
-                    <attvalue for="RelationshipType" value="depicts"/>
-                    <attvalue for="RelationshipTypeId" value="1144"/>
-                    <attvalue for="r461" value="7"/>
                 </attvalues>
                 </edge>
                 <edge id="19482" source="15074" target="15278" label="paints">
@@ -62398,6 +62391,13 @@ Barcino child"/>
                     <attvalue for="RelationshipTypeId" value="1145"/>
                 </attvalues>
                 </edge>
+                <edge id="33051" source="15168" target="15653" label="depicts">
+                <attvalues>
+                    <attvalue for="RelationshipType" value="depicts"/>
+                    <attvalue for="RelationshipTypeId" value="1144"/>
+                    <attvalue for="r461" value="8"/>
+                </attvalues>
+                </edge>
                 <edge id="30952" source="21951" target="15559" label="associated with">
                 <attvalues>
                     <attvalue for="RelationshipType" value="associated with"/>
@@ -63065,12 +63065,6 @@ Barcino child"/>
                     <attvalue for="RelationshipTypeId" value="1132"/>
                 </attvalues>
                 </edge>
-                <edge id="29398" source="15168" target="15663" label="depicts">
-                <attvalues>
-                    <attvalue for="RelationshipType" value="depicts"/>
-                    <attvalue for="RelationshipTypeId" value="1128"/>
-                </attvalues>
-                </edge>
                 <edge id="19429" source="15632" target="16111" label="has">
                 <attvalues>
                     <attvalue for="RelationshipType" value="has"/>
@@ -63559,6 +63553,12 @@ Barcino child"/>
                 <attvalues>
                     <attvalue for="RelationshipType" value="doing"/>
                     <attvalue for="RelationshipTypeId" value="1129"/>
+                </attvalues>
+                </edge>
+                <edge id="33054" source="15168" target="15656" label="depicts">
+                <attvalues>
+                    <attvalue for="RelationshipType" value="depicts"/>
+                    <attvalue for="RelationshipTypeId" value="1128"/>
                 </attvalues>
                 </edge>
                 <edge id="31480" source="22043" target="15413" label="associated with">
@@ -66524,12 +66524,6 @@ Barcino child"/>
                     <attvalue for="RelationshipTypeId" value="1128"/>
                 </attvalues>
                 </edge>
-                <edge id="16470" source="15472" target="15397" label="doing">
-                <attvalues>
-                    <attvalue for="RelationshipType" value="doing"/>
-                    <attvalue for="RelationshipTypeId" value="1129"/>
-                </attvalues>
-                </edge>
                 <edge id="30604" source="18942" target="15408" label="depict">
                 <attvalues>
                     <attvalue for="RelationshipType" value="depict"/>
@@ -66595,6 +66589,12 @@ Barcino child"/>
                 <attvalues>
                     <attvalue for="RelationshipType" value="has"/>
                     <attvalue for="RelationshipTypeId" value="1145"/>
+                </attvalues>
+                </edge>
+                <edge id="33052" source="15168" target="15654" label="depicts">
+                <attvalues>
+                    <attvalue for="RelationshipType" value="depicts"/>
+                    <attvalue for="RelationshipTypeId" value="1128"/>
                 </attvalues>
                 </edge>
                 <edge id="22187" source="17021" target="15400" label="associated with">
@@ -67869,16 +67869,16 @@ Barcino child"/>
                     <attvalue for="RelationshipTypeId" value="1129"/>
                 </attvalues>
                 </edge>
-                <edge id="32099" source="22187" target="15402" label="depict">
-                <attvalues>
-                    <attvalue for="RelationshipType" value="depict"/>
-                    <attvalue for="RelationshipTypeId" value="1131"/>
-                </attvalues>
-                </edge>
                 <edge id="19534" source="16074" target="16137" label="has">
                 <attvalues>
                     <attvalue for="RelationshipType" value="has"/>
                     <attvalue for="RelationshipTypeId" value="1145"/>
+                </attvalues>
+                </edge>
+                <edge id="32099" source="22187" target="15402" label="depict">
+                <attvalues>
+                    <attvalue for="RelationshipType" value="depict"/>
+                    <attvalue for="RelationshipTypeId" value="1131"/>
                 </attvalues>
                 </edge>
                 <edge id="22040" source="16994" target="15483" label="associated with">
@@ -72103,6 +72103,12 @@ Barcino child"/>
                 <attvalues>
                     <attvalue for="RelationshipType" value="depicts"/>
                     <attvalue for="RelationshipTypeId" value="1144"/>
+                </attvalues>
+                </edge>
+                <edge id="33061" source="15610" target="15472" label="has">
+                <attvalues>
+                    <attvalue for="RelationshipType" value="has"/>
+                    <attvalue for="RelationshipTypeId" value="1145"/>
                 </attvalues>
                 </edge>
                 <edge id="18758" source="15962" target="15539" label="doing">
